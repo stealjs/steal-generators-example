@@ -1,5 +1,7 @@
 # steal-generators-example
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/stealjs/steal-generators-example.svg)](https://greenkeeper.io/)
+
 Example StealJS app using generator functions
 
 ## Development setup
